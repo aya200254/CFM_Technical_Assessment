@@ -1,0 +1,6 @@
+@CFM_Technical_Assessment_HostAddress = http://localhost:5020
+
+GET {{CFM_Technical_Assessment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
